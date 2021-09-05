@@ -26,6 +26,17 @@ body{
     color: white;
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
+.btn-learn-more{
+  background: #ff9700;
+  padding: 10px 20px;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.btn-learn-more:hover {
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
 .professional {
   color: white;
   background: url(../images/professional-color.52ed9c3.png)
@@ -55,6 +66,12 @@ body{
   border-top-right-radius: 20px;
   border-left: 5px solid white;
   height: 160px;
+}
+.bagian {
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-left: 3px solid white;
 }
 .card{
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
